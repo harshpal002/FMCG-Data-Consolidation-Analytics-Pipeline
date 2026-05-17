@@ -357,15 +357,6 @@ See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for more.
 
 ---
 
-## 📚 Documentation
-
-- **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** — Deep dive into design decisions
-- **[DATA_LINEAGE.md](docs/DATA_LINEAGE.md)** — How data flows through each layer
-- **[DEPLOYMENT.md](docs/DEPLOYMENT.md)** — Production deployment checklist
-- **[TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)** — Common issues & solutions
-
----
-
 ## 💡 Lessons Learned
 
 1. **Medallion Architecture scales:** Bronze/Silver/Gold separation made maintenance and testing easier
@@ -384,21 +375,7 @@ See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for more.
 ✅ **Optimization:** Star schema, incremental loads, partitioning  
 ✅ **Orchestration:** Databricks Jobs DAG, error handling, monitoring  
 ✅ **BI:** Dashboarding, metric design, KPI tracking  
-✅ **DevOps:** Git, CI/CD ready, environment management  
 
----
-
-## 🤝 Contributing
-
-This is a portfolio project. For feedback or questions:
-- Open an issue on GitHub
-- Email: harsh.pal@example.com
-
----
-
-## 📄 License
-
-This project is provided as-is for portfolio/educational purposes. See [LICENSE](LICENSE) file.
 
 ---
 

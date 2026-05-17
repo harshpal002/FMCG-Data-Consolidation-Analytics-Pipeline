@@ -388,14 +388,4 @@ CDAC Noida (2025-2026) | MIET Meerut (2021-2025)
 
 ---
 
-## 📞 Quick Links
 
-- **Repository:** https://github.com/harshpal002/fmcg-data-pipeline
-- **Issues:** https://github.com/harshpal002/fmcg-data-pipeline/issues
-- **Discussions:** https://github.com/harshpal002/fmcg-data-pipeline/discussions
-
----
-
-**Last Updated:** January 2025  
-**Status:** Production ✅  
-**Maintenance:** Active
